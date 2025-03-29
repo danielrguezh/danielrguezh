@@ -1,16 +1,21 @@
-## Hi there 👋
+# @eduglezexp
 
-<!--
-**danielrguezh/danielrguezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eduardo González Expósito
 
-Here are some ideas to get you started:
+I am a DAM student (multi-platform app development)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I am currently learning and using:
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="img/java-logo.png" height="50" />
+  <img src="img/html-js-css.png" height="50" />
+</div>
+
+## Tools I am currently learning and using:
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="img/git-logo.png" height="50" />
+  <img src="img/sql-server-logo.png" height="50" />
+  <img src="img/sqlite-logo.png" height="50" />
+  <img src="img/mongodb-logo.png" height="50" />
+  <img src="img/spring-logo.png" height="50" />
+</div>
+
