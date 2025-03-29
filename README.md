@@ -1,8 +1,8 @@
-# @eduglezexp
+# @danielrguezh
 
-## Eduardo González Expósito
+## Daniel Alejandro Rodríguez Herrera
 
-I am a DAM student (multi-platform app development)
+Estudiante de Desarrollo de Aplicaciones Multiplataforma. / App Development student.
 
 ## Languages I am currently learning and using:
 <div style="display: flex; gap: 10px; align-items: center;">
