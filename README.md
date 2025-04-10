@@ -1,4 +1,8 @@
-# Daniel Alejandro Rodríguez Herrera
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=fade&color=006400&height=180&section=header&text=Daniel%20Alejandro%20Rodriguez%20Herrera&fontSize=30&fontAlignY=40" />
+</p>
+
 ### @danielrguezh
 Estudiante de Desarrollo de Aplicaciones Multiplataforma. / App Development student.
 
