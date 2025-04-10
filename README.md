@@ -1,5 +1,5 @@
 # Daniel Alejandro Rodríguez Herrera
--  @danielrguezh
+### @danielrguezh
 Estudiante de Desarrollo de Aplicaciones Multiplataforma. / App Development student.
 
 ## Languages I am currently learning and using:
@@ -17,6 +17,7 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma. / App Development stud
   <img src="img/spring-logo.png" height="50" />
 </div>
 
-# Check out my projects!
-[]()
-[]()
+### Check out my projects!
+[The Atlas Quiz](https://github.com/danielrguezh/the-atlas-quiz)
+[Juego del Ahorcado](https://github.com/danielrguezh/Juego-del-Ahorcado)
+[Proyecto Palworld: Entornos de Desarrollo](https://github.com/danielrguezh/Proyecto-Palworld-Entornos-de-desarrollo)
