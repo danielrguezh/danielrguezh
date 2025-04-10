@@ -1,7 +1,5 @@
-# @danielrguezh
-
-## Daniel Alejandro Rodríguez Herrera
-
+# Daniel Alejandro Rodríguez Herrera
+-  @danielrguezh
 Estudiante de Desarrollo de Aplicaciones Multiplataforma. / App Development student.
 
 ## Languages I am currently learning and using:
@@ -19,3 +17,6 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma. / App Development stud
   <img src="img/spring-logo.png" height="50" />
 </div>
 
+# Check out my projects!
+[]()
+[]()
