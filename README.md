@@ -1,8 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=fade&color=006400&height=180&section=header&text=Daniel%20Alejandro%20Rodriguez%20Herrera&fontSize=35&fontAlignY=40" />
-</p>
-
+# Daniel Alejandro Rodriguez Herrera
 
 ### @danielrguezh
 Estudiante de Desarrollo de Aplicaciones Multiplataforma. / App Development student.
@@ -23,7 +19,7 @@ Estudiante de Desarrollo de Aplicaciones Multiplataforma. / App Development stud
 </div>
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AB2A3E&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Check+my+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AB2A3E&multiline=true&width=600&height=60&lines=Check+out+my+projects!" alt="Typing SVG" />
 </p>
 
 * [The Atlas Quiz](https://github.com/danielrguezh/the-atlas-quiz)
