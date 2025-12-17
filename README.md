@@ -3,7 +3,7 @@
 
 
 ## My main languages and tools of use:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![MongoDB](https://img.shields.io/badge/mongodb-%2337A300.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite3](https://img.shields.io/badge/sqlite3-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2337A300.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite3](https://img.shields.io/badge/sqlite3-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ## Languages I am currently learning and using:
