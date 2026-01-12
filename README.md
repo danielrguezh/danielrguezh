@@ -21,6 +21,7 @@
 
 * [The Atlas Quiz](https://github.com/danielrguezh/the-atlas-quiz)
 * [Juego del Ahorcado](https://github.com/danielrguezh/Juego-del-Ahorcado)
+* [Hotel JPA+NoSQL+REST/SOAP](https://github.com/danielrguezh/hotel-puerto)
 
 
 
