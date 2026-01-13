@@ -30,7 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrguezh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[Daniel Alejandro Rodríguez Herrera](https://www.linkedin.com/in/daniel-alejandro-rodr%C3%ADguez-herrera-81699a360?utm_source=share&utm_campaign=share_via&utm_content=profile))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alejandro-rodr%C3%ADguez-herrera-81699a360?utm_source=share&utm_campaign=share_via&utm_content=profile)
 
 ____ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrguezh&label=Profile%20views&color=0e75b6&style=flat" alt="danielrguezh" /> </p>
