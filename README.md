@@ -1,6 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Daniel%20Rodr%C3%ADguez&animation=scaleIn&desc=Backend%20/%20Frontend%20Developer&descSize=20&descAlignY=69&descAlign=80&textSize=40)](https://github.com/)
-
-
+[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:003300,100:00ff88&text=Daniel%20Rodr%C3%ADguez&animation=scaleIn&desc=Backend%20/%20Frontend%20Developer&descSize=20&descAlignY=69&descAlign=80&textSize=40)](https://github.com/)
 
 ## My main languages and tools of use:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2337A300.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite3](https://img.shields.io/badge/sqlite3-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white)
