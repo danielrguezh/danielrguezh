@@ -1,5 +1,5 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Daniel%20Rodr%C3%ADguez&reversal=false&animation=scaleIn&textBg=false&desc=Backend/Frontend%20developer&descSize=20&descAlignY=69&descAlign=80)](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Daniel%20Alejandro%20Rodr%C3%ADguez%20Herrera&reversal=false&animation=scaleIn&textBg=false&desc=Backend/Frontend%20developer&descSize=20&descAlignY=69&descAlign=80&textSize=15
-)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Daniel%20Rodr%C3%ADguez&animation=scaleIn&desc=Backend%20/%20Frontend%20Developer&descSize=20&descAlignY=69&descAlign=80&textSize=40)](https://github.com/)
+
 
 
 ## My main languages and tools of use:
