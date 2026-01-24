@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,30:001a00,60:003300,100:00ff00&text=root@daniel&animation=scaleIn&fontColor=00ff00&desc=%24%20whoami%20%7C%20Backend%20%2F%20Frontend&descSize=20&descAlignY=69&descAlign=80&textSize=40)](https://github.com/)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,40:001400,80:00ff88&text=DANIEL%20RODRIGUEZ&animation=scaleIn&fontColor=00ff88&desc=%3E%20BACKEND%20%2F%20FRONTEND%20DEVELOPER&descSize=20&descAlignY=69&descAlign=80&textSize=42)](https://github.com/)
 
 
 ## My main languages and tools of use:
