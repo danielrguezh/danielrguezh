@@ -29,7 +29,7 @@ ____
         <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logo=java&logoColor=white" />
       </div>
       <p align="center">
-        Juego de preguntas para para poner a prueba tus conocimientos de geografía. <br>
+        Juego de preguntas para poner a prueba tus conocimientos de geografía. <br>
         Stack: Java, JavaFX, JBDC.
         <br><br>
         <a href="https://github.com/danielrguezh/the-atlas-quiz"><b>Ver Código &rarr;</b></a>
