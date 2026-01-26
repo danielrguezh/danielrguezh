@@ -15,18 +15,18 @@
  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Expo](https://img.shields.io/badge/expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white)
 
 ____
-<h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=AB2A3E&multiline=true&width=600&height=60&lines=Check+out+my+repos!" alt="Typing SVG" />
-</h2>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=AB2A3E&multiline=true&width=600&height=60&lines=Check+out+my+repos!" alt="Typing SVG" />
+</p>
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">The Atlas Quiz</h3>
       <div align="center">
+        <img src="./img/the-atlas-quiz-banner.png" />
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logo=java&logoColor=white" />
-         <img src="" />
       </div>
       <p align="center">
         Juego de preguntas para para poner a prueba tus conocimientos de geografía. <br>
@@ -80,6 +80,7 @@ ____
     </td>
   </tr>
 </table>
+
 ____
 
 # 📊 GitHub Stats:
