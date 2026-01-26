@@ -38,7 +38,7 @@ ____
     <td width="50%">
       <h3 align="center">Juego del Ahorcado</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
        <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logo=java&logoColor=white" />
       </div>
       <p align="center">
@@ -69,7 +69,7 @@ ____
     <td width="50%">
       <h3 align="center">API eventos (Securizada)</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
       </div>
       <p align="center">
         API de gestión de eventos securizada mediante JWT. <br>
@@ -81,6 +81,7 @@ ____
   </tr>
 </table>
 ____
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=danielrguezh&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrguezh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
