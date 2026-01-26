@@ -89,6 +89,7 @@ ____
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alejandro-rodr%C3%ADguez-herrera-81699a360?utm_source=share&utm_campaign=share_via&utm_content=profile)
+[![Outlook](https://img.shields.io/badge/Outlook-%230078D7.svg?logo=microsoft-outlook&logoColor=white)](mailto:danielrh2005@outlook.es)
 
 ____ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrguezh&label=Profile%20views&color=0e75b6&style=flat" alt="danielrguezh" /> </p>
