@@ -25,8 +25,8 @@ ____
       <h3 align="center">The Atlas Quiz</h3>
       <div align="center">
         <img src="./img/the-atlas-quiz-banner.png" />
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaFX-0078D7?style=flat-square&logo=java&logoColor=white" />
       </div>
       <p align="center">
         Juego de preguntas para poner a prueba tus conocimientos de geografía. <br>
@@ -38,8 +38,8 @@ ____
     <td width="50%">
       <h3 align="center">Juego del Ahorcado</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-       <img src="https://img.shields.io/badge/JavaFX-0078D7?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+       <img src="https://img.shields.io/badge/JavaFX-0078D7?style=flat-square&logo=java&logoColor=white" />
       </div>
       <p align="center">
         El clásico juego del ahorcado. <br>
@@ -55,9 +55,9 @@ ____
     <td width="50%">
       <h3 align="center">Hotel JPA+NoSQL+REST/SOAP</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/mongodb-%2337A300.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/mongodb-%2337A300.svg?style=flat-square&logo=mongodb&logoColor=white" />
       </div>
       <p align="center">
         Infraestructura API REST/SOAP con serivicios Spring y Mongo para la gestión de un hotel.<br>
@@ -69,7 +69,7 @@ ____
     <td width="50%">
       <h3 align="center">API eventos (Securizada)</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </div>
       <p align="center">
         API de gestión de eventos securizada mediante JWT. <br>
@@ -85,9 +85,9 @@ ____
     <td width="50%">
       <h3 align="center">Calculadora móvil multiusos</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/expo-%23000000.svg?style=flat-square&logo=expo&logoColor=white" />
       </div>
       <p align="center">
         Calculadora con diversos modos de conversión.<br>
