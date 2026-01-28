@@ -93,7 +93,7 @@ ____
         Calculadora con diversos modos de conversión.<br>
         Stack: TypeScript, React, React Native, Expo.
         <br><br>
-        <a href="https://github.com/danielrguezh/hotel-puerto"><b>Ver Código &rarr;</b></a>
+        <a href="https://github.com/danielrguezh/pgl-calc"><b>Ver Código &rarr;</b></a>
       </p>
     </td>
   </tr>
